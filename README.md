@@ -21,5 +21,7 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 
 ### Which method did your team find easier, and why?
 
+Binary implementation was easier for us to understand and implement
+
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
 
